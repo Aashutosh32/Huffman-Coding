@@ -1,0 +1,27 @@
+Huffman Codes are :
+
+k 11111
+N 11110
+t 1110
+A 0000
+u 0001
+s 010
+  011
+a 110
+h 001
+. 10000
+o 10001
+i 10010
+e 10011
+y 10101
+P 10100
+m 1011
+
+Original string was :
+my Name is Aashutosh Pathak.
+
+Encoded string is :
+1011101010111111011010111001101110010010011000011001000100011110100010100010111010011011100011101111110000
+
+Decoded string is: 
+my Name is Aashutosh Pathak.
